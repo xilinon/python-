@@ -1,3 +1,4 @@
 # 这是一个测试代码
 
-pass
+通过
+print("this is a test file")
